@@ -32,12 +32,12 @@ body {
 	line-height: 28px;
 }
 a {
-	color: #fbed7e;
+	color: #715720;
 	-webkit-transition: all 500ms;
 	transition: all 500ms
 }
 a:hover, a:focus {
-	color: #fbed7e;
+	color: #715720;
 	text-decoration: none;
 	outline:0; 
 }
@@ -1854,7 +1854,7 @@ h2.section-heading{
 	font-weight:bold;
 }
 h2.section-heading span{
-	color: #fbed7e;
+	color: #715720;
 	font-weight:bold; 
 }
 .carbon-layout .about-left h4{
@@ -1933,7 +1933,7 @@ h2.section-heading span{
 .tab-section .nav-tabs .nav-link.active, .tab-section .nav-tabs .nav-item.show .nav-link, .tab-section .nav-tabs .nav-link:hover, .tab-section .nav-tabs .nav-link:focus{
 	border-color: transparent;
 	background-color: transparent;
-	color:#fbed7e; 
+	color:#715720; 
 }
 .tab-section .nav-tabs .nav-link.active:after, .tab-section .nav-tabs .nav-item.show .nav-link:after, .tab-section .nav-tabs .nav-link:hover:after, .tab-section .nav-tabs .nav-link:focus:after{
 	right:0;
